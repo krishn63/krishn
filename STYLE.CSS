@@ -1,0 +1,12 @@
+div{
+    width: 50PX;
+    height: 50PX;
+    background-color: pink;
+    border: SOLID red;
+    background-image: url(BLACK\ HEART.png);
+    background-size: cover;
+}
+body{
+    background-image: url(BLACK\ HEART.png);
+    background-size: contain;
+}
